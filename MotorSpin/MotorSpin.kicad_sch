@@ -1,0 +1,22 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 8d091d41-b364-4f00-984f-4e02457fd4f6)
+
+  (paper "A3")
+
+  (title_block
+    (title "MotorSpin")
+    (date "04. Jun 2022")
+    (rev "1.0")
+    (comment 1 "04. Jun 2022")
+    (comment 2 "Gabriel Aberle")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

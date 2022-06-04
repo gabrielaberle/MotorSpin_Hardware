@@ -1,0 +1,5 @@
+# Ignore project local settings file
+*.kicad_prl
+
+# Ignore backup directory
+MotorSpin/MotorSpin-backups/*
